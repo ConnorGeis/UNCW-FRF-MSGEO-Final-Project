@@ -10,8 +10,8 @@ from arcgis.gis import GIS
 FeatureLayerId = '912bd750296e4d96895bc4ceaabf682e'
 
 #What are your ArcGIS Enterprise/ArcGIS Online credentials? This is case sensitive.
-PortalUserName = 'Ian.Conery'
-PortalPassword = 'NicoDingo77$'
+PortalUserName = 'User'
+PortalPassword = 'Password'
 PortalUrl = 'https://erdcchl.maps.arcgis.com/'
 
 #Where do you want your attachments stored?
